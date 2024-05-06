@@ -1,0 +1,33 @@
+{
+  "name": "ppi2-aplicacao-web",
+  "version": "1.0.0",
+  "description": "Atividade 2 PPI - Manipulação de dados de formulário HTML",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Higuxhin/PPI2-Aplicacao-Web.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTTP",
+    "GET",
+    "programação",
+    "cliente",
+    "servidor"
+  ],
+  "author": "Eduarda Higuchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Higuxhin/PPI2-Aplicacao-Web/issues"
+  },
+  "homepage": "https://github.com/Higuxhin/PPI2-Aplicacao-Web#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
